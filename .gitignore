@@ -1,0 +1,26 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+# Rider, VS, VSCode, JetBrains Rider, VS Cache
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Mac/Win sistem dosyaları
+.DS_Store
+Thumbs.db
